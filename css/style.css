@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+.arial{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.textshadow{
+	text-shadow: 1px 1px 1px #000000;
+}
